@@ -1,6 +1,6 @@
 -- i reccomend to do this overnight lol
 
-if game.PlaceId == "4883932082" then return end
+
 
 local CoreGui = game:GetService("StarterGui") --
 
